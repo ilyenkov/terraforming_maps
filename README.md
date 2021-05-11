@@ -8,3 +8,7 @@ How to use:
 3) If you want to use original geotiffs, uncomment row 11 in MapConstructor.py
 
 Youtube playlist with terraformed maps videos is here: https://www.youtube.com/playlist?list=PL4GHmzDz7hcVJEolJfmmpxtbw1mYLY5Mk
+
+Example of generated maps mosaic for Mars with 30% sea share:
+
+![alt text](https://github.com/ilyenkov/terraforming_maps/blob/main/Mars_30_percent_mosaic.jpg?raw=true)
