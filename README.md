@@ -1,6 +1,6 @@
 # Terraforming maps 
 
-## Altitude, Pressure, Temperature, Precipitations, Climate zones, Natural colors, Coast distance, Population density and radiation terraforming maps for Mars, Venus, Earth, Mercury and Moon. You can make images, mosaics of some types of maps and videos.
+Altitude, Pressure, Temperature, Precipitations, Climate zones, Natural colors, Coast distance, Population density and radiation terraforming maps for Mars, Venus, Earth, Mercury and Moon. You can make images, mosaics of some types of maps and videos.
 
 ### How to use:
 1) Copy files and unzip ziped files
