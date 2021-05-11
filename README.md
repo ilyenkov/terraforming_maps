@@ -15,7 +15,7 @@ Example of generated maps mosaic for Mars with 30% sea share:
 
 ### How it works:
 
-First you should calc water levels depending of water volume. They are precalced in params_dict.json for 3 different resolutions (FHD, 4K and 8K).
+First you should calc water levels depending of water volume. They are precalced in params_dict.json for 3 different resolutions (FHD, 4K and 8K). Altitude scale by default is normed to surface gravitation (so Altitude maps of Moon, Mercury and Mars with lower surface gravitation are greener than they should be if we use the same colors as on Earth or Venus altitude maps).
 
 Simplified climate model has three inputs: solar irradiance (W/m2), sea-level pressure (Pa) and land share (%). Atmosphere (sea-level pressure) creates greenhouse effect, i.e. increases average temperature and decrerases temperature range. Sea-level temperature depends on solar irradiance (including greenhouse effect) and latitude. Surface temperature and pressure depends on altitude and temperature lapse rates (which are Earth's temperature lapse rates adjusted to other surface gravity). Average level of precipitations depends on average temperature (higher temperature stimulates higher evaporation) and land share (on Earth water better evaporates from ocean). Precipitations depend on surface pressure, latitude and remoteness from seashore. And finally, climate depends on temperature and precipitations. Natural colors are colors of according climate zone on Earth. Population density depends on climate zone and coast distance.
 
