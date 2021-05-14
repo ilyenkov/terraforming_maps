@@ -11,7 +11,9 @@ Youtube playlist with terraformed maps videos is here: https://www.youtube.com/p
 
 Example of generated maps mosaic for Mars with 30% sea share:
 
-![alt text](https://github.com/ilyenkov/terraforming_maps/blob/main/Mars_30_percent_mosaic.jpg?raw=true)
+![alt text](https://github.com/ilyenkov/terraforming_maps/blob/main/maps_examples/Mars_maps_mosaic_n_0595_angle_0_water_volume_5.95e+19_sea_level_5404_sea_share_30.0_insol_1361_pressure_101325_quality_FHD_eck4_title_short (1).jpg?raw=true)
+
+![alt text](https://github.com/ilyenkov/terraforming_maps/blob/main/maps_examples/Mars_altitude_eck4_map_n_0593_angle_0_water_volume_5.93e+19_sea_level_5682_sea_share_30.0_insol_1361_pressure_101325_quality_8K.jpg?raw=true)
 
 ### How it works:
 
